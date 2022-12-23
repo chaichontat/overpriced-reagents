@@ -32,6 +32,20 @@ This repo lists the recipe and patents of reagents often used in molecular biolo
   EB: 10 mM Tris-HCl, pH 8.5
   ```
   Also, https://openwetware.org/wiki/Qiagen_Buffers
+  
+  Buffer ER:
+  > To the cL, there is added 1/10 of its volume (35 ml) of a buffer consisting of 20% NP 40, 750 mM NaCl, 50 mM MOPS, pH 7.0, and incubated with the cL mixture at 4° C. for one hour.
+  
+  https://patents.google.com/patent/US7510826B2/en
+  
+  These [spin](http://www.epochlifescience.com/Product/PurificationKit/dna_mini.aspx) columns and [anion exchange](http://www.epochlifescience.com/Product/PurificationKit/dna_midi.aspx) columns perform identically as the Qiagen ones.
+  
+  ### Plasmid Plus Kits
+  
+  https://patents.google.com/patent/EP1771242B1/en
+  
+  
+  
 </details>
 
 # Reasonably overpriced reagents
