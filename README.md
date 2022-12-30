@@ -40,10 +40,18 @@ This repo lists the recipe and patents of reagents often used in molecular biolo
   
   These [spin](http://www.epochlifescience.com/Product/PurificationKit/dna_mini.aspx) columns and [anion exchange](http://www.epochlifescience.com/Product/PurificationKit/dna_midi.aspx) columns perform identically as the Qiagen ones.
   
+  
+  [QIAPrecipitator](https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/dna-purification/plasmid-dna/hispeed-plasmid-kits)
+  
+  https://patents.google.com/patent/EP1121460B1/en
+  
+  Cellulose acetate/nitrate 0.45um syringe filter.
+  
   ### Plasmid Plus Kits
   
   https://patents.google.com/patent/EP1771242B1/en
   
+  The silica column seems to be the Whatman GF/D filter paper.
   
   
 </details>
