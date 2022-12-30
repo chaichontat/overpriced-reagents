@@ -19,7 +19,7 @@ This repo lists the recipe and patents of reagents often used in molecular biolo
 
 <details>
   <summary>
-  Qiagen Plasmid Buffers
+  Qiagen Kits
   </summary>
 
   https://patents.google.com/patent/US6383393B1/en
@@ -53,6 +53,11 @@ This repo lists the recipe and patents of reagents often used in molecular biolo
   
   The silica column seems to be the Whatman GF/D filter paper.
   
+  
+  ### RNEasy buffers
+  https://pipettejockey.com/2020/03/30/diy-rna-spin-column-buffers-purification-of-rna-with-humble-dna-silica-spin-columns/
+  
+  Should be the same silica columns.
   
 </details>
 
