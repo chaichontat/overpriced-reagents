@@ -41,7 +41,7 @@ This repo lists the recipe and patents of reagents often used in molecular biolo
   These [spin](http://www.epochlifescience.com/Product/PurificationKit/dna_mini.aspx) columns and [anion exchange](http://www.epochlifescience.com/Product/PurificationKit/dna_midi.aspx) columns perform identically as the Qiagen ones.
   
   
-  [QIAPrecipitator](https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/dna-purification/plasmid-dna/hispeed-plasmid-kits)
+  ### [QIAPrecipitator](https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/dna-purification/plasmid-dna/hispeed-plasmid-kits)
   
   https://patents.google.com/patent/EP1121460B1/en
   
@@ -57,8 +57,26 @@ This repo lists the recipe and patents of reagents often used in molecular biolo
   ### RNEasy buffers
   https://pipettejockey.com/2020/03/30/diy-rna-spin-column-buffers-purification-of-rna-with-humble-dna-silica-spin-columns/
   
-  Should be the same silica columns.
+  Should be the same silica columns as everything else.
   
+  ### MN Nucleobond
+  
+  https://pipettejockey.com/2017/08/12/diy-plasmid-anion-exchange-buffers-and-columns-qaigen-and-macherey-nagel/
+  
+  https://patents.google.com/patent/US6428703B1/
+  
+  The filter is called an extraction thimble.
+  
+  https://patents.google.com/patent/DE202005010007U1/
+  
+  ```
+  The Fiber braid of the filter material may, for example, cellulose, Be made glass, plastic and / or metal fibers. It goes without saying that too other materials that are suitable for a depth filter.
+
+Around one for the above purpose sufficient filter capacity available should the filter material have a thickness of at least 1 mm. It is understood that the Thickness of the filter material can also be larger if appropriate capacity requirements consist.
+  ```
+  
+  [Grade 603 cellulose thimble](https://www.cytivalifesciences.com/en/us/shop/whatman-laboratory-filtration/thimbles/cellulose-thimbles-standard/standard-cellulose-extraction-thimbles-p-00276) should work. Looks the most similar to the actual filter.
+
 </details>
 
 # Reasonably overpriced reagents
