@@ -76,6 +76,14 @@ Around one for the above purpose sufficient filter capacity available should the
   ```
   
   [Grade 603 cellulose thimble](https://www.cytivalifesciences.com/en/us/shop/whatman-laboratory-filtration/thimbles/cellulose-thimbles-standard/standard-cellulose-extraction-thimbles-p-00276) should work. Looks the most similar to the actual filter.
+  
+  ### [Sigma GenElute HP Endotoxin-free](https://www.sigmaaldrich.com/US/en/product/sigma/na0410)
+  
+  https://patents.google.com/patent/US20050245733A1/en
+  
+  Silica-based kit. The magic is 5% n-octyl-β-d-glucopyranoside in the binding buffer.
+  
+  > Other classes of detergents, such as zwitterionic, alkyl sulfate, CHAPS, glucamide and non-ionic polyoxyethylene, do not function in the method of the present invention to provide adequate yields of nucleic acids with low levels of endotoxins. Since endotoxins are lipopolysaccharides, it is thought that the carbohydrate component of the carbohydrate non-ionic detergents claimed in the present invention solubilizes the polysaccharide portion of the endotoxin, preventing it from absorbing to the binding matrix. Thus the nucleic acids to be purified absorb to the binding matrix in the presence of the chaotropic binding solution, whereas the endotoxins do not absorb in the presence of the carbohydrate non-ionic detergent and are washed off the binding matrix column. Other classes of detergents, other than the carbohydrate non-ionic detergents claimed in the present invention, either interfere with the binding of the nucleic acids to the binding matrix, resulting in a low yield of recovered nucleic acids and/or interfere with the solubilizing of the endotoxins, resulting in high amounts of endotoxins in the final nucleic acid product.  
 
 </details>
 
