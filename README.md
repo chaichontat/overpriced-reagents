@@ -87,6 +87,32 @@ Around one for the above purpose sufficient filter capacity available should the
 
 </details>
 
+<details>
+  <summary>
+  10x Genomics GEM Beads
+  </summary>
+
+  https://patents.google.com/patent/US20140295411A1/en
+  
+  To make the most sense, the gel beads probably decompose upon mixing with the RT mix containing DTT.
+  This allows oligos to bind to mRNAs within a fixed cells.
+  
+  Emulsion formation, probably based on [this](https://pubs.rsc.org/en/content/articlelanding/2008/LC/b806706f) paper.
+  
+  Partitioning oil
+  ```
+  Novec HFE 7500 fluorocarbon oil (3M, St. Paul, MN, USA) containing 2% (v/v) Krytox-PEG-Krytox 
+  ```
+  
+  Recovery reagent
+  ```
+  perfluorodecanol
+  ```
+  
+
+  
+</details>
+
 # Reasonably overpriced reagents
 
 <details>
