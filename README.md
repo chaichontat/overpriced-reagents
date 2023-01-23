@@ -108,9 +108,14 @@ Around one for the above purpose sufficient filter capacity available should the
   ```
   perfluorodecanol
   ```
-  
+</details>
 
+<details>
+ <summary>
+   Illumina Flow cells
+ </summary>
   
+  - NovaSeq patterned flowcell - kinetic exclusion amplification https://patents.google.com/patent/US20220243261A1/en
 </details>
 
 # Reasonably overpriced reagents
