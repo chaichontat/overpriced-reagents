@@ -179,6 +179,10 @@ Around one for the above purpose sufficient filter capacity available should the
   [Blunt/TA Ligase Master Mix](https://www.neb.com/products/m0367-blunt-ta-ligase-master-mix)
   - Contains PEG
   - Probably different concentrations of PEG
+  
+  
+  EvaGreen
+-   https://patents.google.com/patent/US9580749B2/en?q=dna+quantitation+biotium&assignee=Biotium%2c+Inc.
 
 </details>
 
