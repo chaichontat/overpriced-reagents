@@ -131,6 +131,10 @@ Around one for the above purpose sufficient filter capacity available should the
 - DNA dyes https://patents.google.com/patent/US8524503B2/
 > Suitable nucleic acid dyes include dsDNA-selective and RNA-selective dyes. More specific examples of suitable light-emitting dyes include, but are not limited to, EvaGreen dye, GelRed, GelGreen, SYBR Green I (U.S. Pat. Nos. 5,436,134 and 5,658,751), SYBR GreenEr, SYBR Gold, LC Green, LC Green Plus, BOXTO, BEBO, SYBR DX, SYTO9, SYTOX Blue, SYTOX Green, SYTOX Orange, SYTO dyes, POPO-1, POPO-3, BOBO-1, BOBO-3, YOYO-1, YOYO-3, TOTO-1, TOTO-3, PO-PRO-1, BO-PRO-1, YO-PRO-1, TO-PRO-1, JO-PRO-1, PO-PRO-3, LO-PRO-1, BO-PRO-3, YO-PRO-3, TO-PRO-3, TO-PRO-5, Ethidium Homodimer-1, Ethidium Homodimer-2, Ethidium Homodimer-3, propidium iodide, ethidium bromide, various Hoechst dyes, DAPI, ResoLight, Chromofy, and acridine homodimer Merely by way of example, fluorescent RNA- or ssDNA-binding dyes include SYBR Green II, OliGreen, and RiboGreen. Other nucleic acid dyes include those disclosed in U.S. Pat. No. 4,883,867 to Lee (1989), U.S. Pat. No. 5,582,977 to Yue et al. (1996), U.S. Pat. No. 5,321,130 to Yue et al. (1994), U.S. Pat. No. 5,410,030 to Yue et al. (1995), U.S. Pat. No. 5,863,753, and U.S. Patent Publication Nos. 2006/0211028 and 2008/0145526. Many of the above mentioned dyes are commercially available from Invitrogen, Sigma, Biotium and numerous other companies.
 
+- RNAsein Plus
+  https://patents.google.com/patent/WO2004094674A1/en
+  > Another preferred RNase inhibitor protein for use in the present invention is designated herein as "RNasin-Plus"™ RNase inhibitor. This RNase inhibitor protein is a recombinant protein derived from rat lung and produced in E. coli. 
+
 # Reasonably overpriced reagents
 
 <details>
