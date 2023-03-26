@@ -135,6 +135,9 @@ Around one for the above purpose sufficient filter capacity available should the
   https://patents.google.com/patent/WO2004094674A1/en
   > Another preferred RNase inhibitor protein for use in the present invention is designated herein as "RNasin-Plus"™ RNase inhibitor. This RNase inhibitor protein is a recombinant protein derived from rat lung and produced in E. coli. 
 
+- FocusClear
+  https://patents.google.com/patent/US6472216B1/en
+
 # Reasonably overpriced reagents
 
 <details>
